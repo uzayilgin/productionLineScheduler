@@ -1,0 +1,54 @@
+
+Algorithm used: First-Come-First-Served 
+
+Date       | Product Name | Order Number | Quantity | Due Date
+
+2024-06-17 | Product_A    | P0001        | 2000      | 2024-06-10
+2024-06-17 | Product_D    | P0002        | 3000      | 2024-06-13
+2024-06-17 | Product_H    | P0202        | 3000      | 2024-06-23
+
+** PERFORMANCE 
+
+Plant_X:
+Number of days in use: 0 days
+Number of products produced: 0 (in total)
+Utilization of the plant: nan %
+
+Plant_Y:
+Number of days in use: 0 days
+Number of products produced: 0 (in total)
+Utilization of the plant: nan %
+
+Plant_Z:
+Number of days in use: 16 days
+Number of products produced: 8000 (in total)
+Utilization of the plant: 100.00 %
+
+Overall of utilization: 100.00 %
+
+Algorithm used: First-Come-First-Served 
+
+Date       | Product Name | Order Number | Quantity | Due Date
+
+2024-06-13 | Product_B    | P0001        | 1000      | 2024-06-10
+2024-06-13 | Product_A    | P0002        | 3000      | 2024-06-13
+2024-06-13 | Product_G    | P0202        | 2000      | 2024-06-23
+
+** PERFORMANCE 
+
+Plant_X:
+Number of days in use: 0 days
+Number of products produced: 0 (in total)
+Utilization of the plant: nan %
+
+Plant_Y:
+Number of days in use: 0 days
+Number of products produced: 0 (in total)
+Utilization of the plant: nan %
+
+Plant_Z:
+Number of days in use: 12 days
+Number of products produced: 6000 (in total)
+Utilization of the plant: 100.00 %
+
+Overall of utilization: 100.00 %

@@ -1,0 +1,11 @@
+addBATCH test_data_Gxx.dat
+
+addORDER P0001 2024-06-10 2000 Product_A
+addORDER P0002 2024-06-13 3000 Product_D
+addORDER P0202 2024-06-23 3000 Product_H
+
+addBATCH test2_data_Gxx.dat
+
+addORDER P0001 2024-06-10 1000 Product_B
+addORDER P0002 2024-06-13 3000 Product_A
+addORDER P0202 2024-06-23 2000 Product_G
